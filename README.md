@@ -5,9 +5,9 @@
 
 
 🛠Tech Stack:
-   -👁JavaScript|ES5|ES6 
-   - 🌐 HTML|CSS|ReactJS
-   -Git|Markdown
+    - 👁 JavaScript|ES5|ES6 
+    - 🌐 HTML|CSS|ReactJS
+    - 🔧 Git|Markdown
    
 🤝Connect with Me
        
