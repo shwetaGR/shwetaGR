@@ -8,7 +8,7 @@
 
     - 👁 JavaScript|ES5|ES6
     - 🌐 HTML|CSS|ReactJS
-    - 🔧 Git|Markdown
+    - 🔧 Git & GitHub
    
 🤝Connect with Me
        
